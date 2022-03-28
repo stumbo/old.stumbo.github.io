@@ -1,0 +1,20 @@
+# theme.toml template for a Hugo theme
+
+name = "docter"
+license = "MIT"
+licenselink = "https://github.com/edavidaja/docter/blob/master/LICENSE"
+description = "docter for hugo"
+homepage = "https://github.com/edavidaja/docter"
+tags = ["documentation", "blog"]
+features = ["documentation"]
+min_version = "0.69.2"
+
+[author]
+  name = "edavidaja"
+  homepage = "https://edavidaja.com"
+
+# If porting an existing theme
+[original]
+  name = "docter"
+  homepage = "http://cfpb.github.io/DOCter"
+  repo = "https://github.com/cfpb/DOCter"

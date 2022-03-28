@@ -1,0 +1,53 @@
+# MIT License
+#
+# Copyright Interlisp.org contributors
+#
+title = "Interlisp Medley"
+enableRobotsTXT = true
+languageCode = "en-us"
+theme = "docter"
+
+contentDir = "content/en"
+
+disablePathToLower = true
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
+
+[languages]
+  [language.en]
+    languageName = "English"
+    title = "Interlisp Medley"
+    weight = 1
+    contentDir = "content/en"
+
+
+[params]
+  # the name of your project and a link back to the home page
+  home = "Interlisp Medley Project"
+  # A small snippet of text above the sidebar:
+  # subtitle = "Email: Interlisp@googlegroups.com (archives)"
+  # subtitle1 = "Links: github.com/Interlisp, Wikipedia on Interlisp"
+
+  author = "Interlisp.org"
+  author_url= "https://Interlisp.org"
+
+  # Point readers to your repo and invite them to edit pages 
+  repo_host = "GitHub"
+  repo = "https://github.com/Interlisp/Interlisp.github.io"
+
+  # Add a reference to a logo, which will appear in the top right
+  # logourl = "./images/Interlisp-D.png"
+  # logoalt = ""
+
+  # Mention your hosting provider 
+  hosted_on = "GitHub"
+  hosted_on_url= "https://github.com/Interlisp/Interlisp.github.io"
+
+  # main sections
+  # change the main section to set the directory where the top articles are sourced
+  mainSections = ["News"]
+
+  # brand color
+  brand_color = "#337ab7"
+
+  features = ["documentation"]
