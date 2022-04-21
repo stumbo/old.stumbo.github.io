@@ -6,9 +6,18 @@ draft = false
 weight = 1
 +++
 
-This page is for project news. Periodic updates of news since the (11/15/21) [Annual Report](https://docs.google.com/document/d/1cGBDNMO5yt6ymi7YiCcf6uNn6RBe5PVS7mW4kFnlzNY).
+The **2021 Medley Interlisp [Annual Report](https://docs.google.com/document/d/1cGBDNMO5yt6ymi7YiCcf6uNn6RBe5PVS7mW4kFnlzNY)** provides a detailed report on 2021 accomplishments.
 
-## 1/2022 (draft in progress)
+# Recent Updates
+
+## 3/2022
+ - [Interlisp Online](https://online.interlisp.org) new version! Many new/improved features. From any (recent) browser. Medley is running "in the cloud" and you connect to it (and your account) over the web.  
+ - Medley [Documentation](https://github.com/Interlisp/medley/wiki/Documentation). We've been updating the online documentation at least for getting started -- instructions on Running in various contexts and Building and Using.
+ - Interlisp.Org has been approved as tax-exempt by California Franchise Tax Board and the California AG, State Charity Registration Number: [CT0278267](https://rct.doj.ca.gov/Verification/Web/Search.aspx?facility=Y)
+ - We have joined (as an "implementation sponsor") the [Software Preservation Network](https://www.softwarepreservationnetwork.org/). See [Interlisp and SPN](https://www.softwarepreservationnetwork.org/Interlisp/) for more information.
+ - Many updates to Medley features and files; most [releases](https://github.com/Interlisp/medley/releases) have a 'What's Changed' section or URL.
+
+## 1/2022 
 Merry Christmas and Happy New Year
 
 * Steve's [Medley Interlisp: The Interactive Environment](https://interlisp.org/docs/20211225-interlisp-book-2.pdf) reformated for easier online reading.

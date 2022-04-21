@@ -3,10 +3,9 @@ title= "Releases"
 subtitle= ""
 date= ""
 draft = false
-weight = 500
+weight = 20
 +++
 
-We have yet to do any formal releases, but there are some samples in the Medley repo. Download the medley tgz and maiko for your host OS and architecture. Or build your own maiko following the build instructions.
-Bibliography
+[Medley repo releases](https://github.com/interlisp/medley/releases) contains the current Medley release.  New releases are generated regularly as functionality is restored and extended.  
 
-    Bibliography
+An alternative is to point your browser to [Online Interlisp](https://online.interlisp.org/) and try our cloud hosted version of Medley Interlisp.
