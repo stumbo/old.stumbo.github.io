@@ -32,11 +32,11 @@ defaultContentLanguageInSubdir = false
   author_url= "https://Interlisp.org"
 
   # Point readers to your repo and invite them to edit pages 
-  repo_host = "GitHub"
-  repo = "https://github.com/Interlisp/Interlisp.github.io"
+  #repo_host = "GitHub"
+  #repo = "https://github.com/Interlisp/Interlisp.github.io"
 
   # Add a reference to a logo, which will appear in the top right
-  # logourl = "./images/Interlisp-D.png"
+  logourl = "./images/Interlisp-D.png"
   # logoalt = ""
 
   # Mention your hosting provider 
