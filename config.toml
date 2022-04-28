@@ -7,6 +7,7 @@ enableRobotsTXT = true
 languageCode = "en-us"
 theme = "docter"
 
+baseurl = "https://stumbo.github.io"
 contentDir = "content/en"
 
 disablePathToLower = true
