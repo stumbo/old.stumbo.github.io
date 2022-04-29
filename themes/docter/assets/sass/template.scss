@@ -36,10 +36,10 @@ Typography
 */
 
 body {
-    font-family: "Open Sans", Arial, sans-serif;
+    font-family: "Montserrat", Helvetica, Arial, sans-serif;
     font-weight: 400;
     font-style: normal;
-    line-height: 1.466666667;
+    line-height: 1.4em;
 }
 
 h1,
@@ -181,7 +181,7 @@ Navigation
 
 .sidebar-nav a {
   display: block;
-  padding: 10px;
+  padding: 5px;
   -webkit-transition: 0.4s;
   transition: 0.4s;
 }
@@ -220,8 +220,7 @@ Navigation
 }
 .sidebar-nav li {
   list-style: none;
-  border-bottom: 1px solid #babbbd;
-  font-size: 1.125em;
+  font-size: .85em;
   padding-left: 4px;
 }
 .sidebar-nav li:last-child {
